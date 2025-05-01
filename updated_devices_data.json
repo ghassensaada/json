@@ -1,9 +1,9 @@
 [
     {
         "nickname": "Unknown",
-        "timestamp": "05/01/2025 18:41",
-        "latitude": 42.32747642,
-        "longitude": -83.2745571
+        "timestamp": "05/01/2025 18:53",
+        "latitude": 42.32724375,
+        "longitude": -83.2808026
     },
     {
         "nickname": "753",
@@ -25,21 +25,21 @@
     },
     {
         "nickname": "IC",
-        "timestamp": "05/01/2025 18:42",
-        "latitude": 42.2909371,
-        "longitude": -83.2855051
+        "timestamp": "05/01/2025 18:53",
+        "latitude": 42.28914085,
+        "longitude": -83.28464413
     },
     {
         "nickname": "723",
-        "timestamp": "05/01/2025 18:41",
-        "latitude": 42.31740407,
-        "longitude": -83.30843692
+        "timestamp": "05/01/2025 18:52",
+        "latitude": 42.31920708,
+        "longitude": -83.29917333
     },
     {
         "nickname": "770",
-        "timestamp": "05/01/2025 18:41",
-        "latitude": 42.30537942,
-        "longitude": -83.2444502
+        "timestamp": "05/01/2025 18:53",
+        "latitude": 42.30699927,
+        "longitude": -83.23772272
     },
     {
         "nickname": "OUT",
@@ -49,68 +49,68 @@
     },
     {
         "nickname": "747",
-        "timestamp": "05/01/2025 18:41",
-        "latitude": 42.31496642,
-        "longitude": -83.24421645
+        "timestamp": "05/01/2025 18:53",
+        "latitude": 42.31611028,
+        "longitude": -83.24397537
     },
     {
         "nickname": "776",
-        "timestamp": "05/01/2025 18:41",
-        "latitude": 42.30616852,
-        "longitude": -83.21358492
+        "timestamp": "05/01/2025 18:52",
+        "latitude": 42.41567962,
+        "longitude": -83.21870938
     },
     {
         "nickname": "717",
-        "timestamp": "05/01/2025 18:41",
-        "latitude": 42.34939823,
-        "longitude": -83.29303317
+        "timestamp": "05/01/2025 18:52",
+        "latitude": 42.34158493,
+        "longitude": -83.28801262
     },
     {
         "nickname": "735",
-        "timestamp": "05/01/2025 18:41",
-        "latitude": 42.28635217,
-        "longitude": -83.25612205
+        "timestamp": "05/01/2025 18:52",
+        "latitude": 42.28055283,
+        "longitude": -83.25476635
     },
     {
         "nickname": "729",
-        "timestamp": "05/01/2025 18:41",
-        "latitude": 42.31734007,
-        "longitude": -83.27172463
+        "timestamp": "05/01/2025 18:53",
+        "latitude": 42.31899192,
+        "longitude": -83.26975128
     },
     {
         "nickname": "765",
-        "timestamp": "05/01/2025 18:41",
-        "latitude": 42.26928957,
-        "longitude": -83.2698269
+        "timestamp": "05/01/2025 18:53",
+        "latitude": 42.26883192,
+        "longitude": -83.286979
     },
     {
         "nickname": "764",
-        "timestamp": "05/01/2025 18:42",
-        "latitude": 42.3298539,
-        "longitude": -83.30672835
+        "timestamp": "05/01/2025 18:52",
+        "latitude": 42.33057688,
+        "longitude": -83.30873263
     },
     {
         "nickname": "752",
-        "timestamp": "05/01/2025 18:41",
-        "latitude": 42.30841575,
-        "longitude": -83.28459813
+        "timestamp": "05/01/2025 18:53",
+        "latitude": 42.3088468,
+        "longitude": -83.2862075
     },
     {
         "nickname": "741",
-        "timestamp": "05/01/2025 18:42",
-        "latitude": 42.27791497,
-        "longitude": -83.2497147
+        "timestamp": "05/01/2025 18:53",
+        "latitude": 42.28248258,
+        "longitude": -83.25112467
     },
     {
         "nickname": "759",
-        "timestamp": "05/01/2025 18:41",
-        "latitude": 42.32751447,
-        "longitude": -83.28963282
+        "timestamp": "05/01/2025 18:52",
+        "latitude": 42.33149493,
+        "longitude": -83.28617158
     },
     {
         "nickname": "771",
-        "timestamp": "05/01/2025 18:41",
-        "latitude": 42.33030787,
-        "longitude": -83.26654352
+        "timestamp": "05/01/2025 18:53",
+        "latitude": 42.32759183,
+        "longitude": -83.27005542
     }
 ]
