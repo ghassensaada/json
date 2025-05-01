@@ -1,9 +1,9 @@
 [
     {
         "nickname": "Unknown",
-        "timestamp": "05/01/2025 17:00",
-        "latitude": 42.30035537,
-        "longitude": -83.23993277
+        "timestamp": "05/01/2025 17:19",
+        "latitude": 42.29334882,
+        "longitude": -83.24196177
     },
     {
         "nickname": "753",
@@ -25,21 +25,21 @@
     },
     {
         "nickname": "IC",
-        "timestamp": "05/01/2025 17:00",
-        "latitude": 42.28163445,
-        "longitude": -83.2761745
+        "timestamp": "05/01/2025 17:19",
+        "latitude": 42.27967755,
+        "longitude": -83.2829195
     },
     {
         "nickname": "723",
-        "timestamp": "05/01/2025 17:00",
-        "latitude": 42.31291835,
-        "longitude": -83.2955574
+        "timestamp": "05/01/2025 17:19",
+        "latitude": 42.31549005,
+        "longitude": -83.29671055
     },
     {
         "nickname": "770",
-        "timestamp": "05/01/2025 17:00",
-        "latitude": 42.28768043,
-        "longitude": -83.2701544
+        "timestamp": "05/01/2025 17:19",
+        "latitude": 42.30104492,
+        "longitude": -83.26423903
     },
     {
         "nickname": "OUT",
@@ -49,68 +49,68 @@
     },
     {
         "nickname": "747",
-        "timestamp": "05/01/2025 17:00",
-        "latitude": 42.30250873,
-        "longitude": -83.24189155
+        "timestamp": "05/01/2025 17:19",
+        "latitude": 42.30219612,
+        "longitude": -83.25195517
     },
     {
         "nickname": "776",
-        "timestamp": "05/01/2025 16:59",
-        "latitude": 42.28796858,
-        "longitude": -83.2269847
+        "timestamp": "05/01/2025 17:19",
+        "latitude": 42.28736428,
+        "longitude": -83.23623557
     },
     {
         "nickname": "717",
-        "timestamp": "05/01/2025 16:59",
-        "latitude": 42.34970645,
-        "longitude": -83.28614568
+        "timestamp": "05/01/2025 17:19",
+        "latitude": 42.3535463,
+        "longitude": -83.2876362
     },
     {
         "nickname": "735",
-        "timestamp": "05/01/2025 17:00",
-        "latitude": 42.28824915,
-        "longitude": -83.2631169
+        "timestamp": "05/01/2025 17:18",
+        "latitude": 42.27940755,
+        "longitude": -83.26267435
     },
     {
         "nickname": "729",
-        "timestamp": "05/01/2025 17:00",
-        "latitude": 42.3192774,
-        "longitude": -83.26351457
+        "timestamp": "05/01/2025 17:18",
+        "latitude": 42.31233337,
+        "longitude": -83.26114608
     },
     {
         "nickname": "765",
-        "timestamp": "05/01/2025 17:00",
-        "latitude": 42.2769258,
-        "longitude": -83.2395067
+        "timestamp": "05/01/2025 17:19",
+        "latitude": 42.27633465,
+        "longitude": -83.25584253
     },
     {
         "nickname": "764",
-        "timestamp": "05/01/2025 17:00",
-        "latitude": 42.33716928,
-        "longitude": -83.30123247
+        "timestamp": "05/01/2025 17:18",
+        "latitude": 42.34050763,
+        "longitude": -83.30291038
     },
     {
         "nickname": "752",
-        "timestamp": "05/01/2025 17:00",
-        "latitude": 42.311149,
-        "longitude": -83.27056872
+        "timestamp": "05/01/2025 17:19",
+        "latitude": 42.31215853,
+        "longitude": -83.27475225
     },
     {
         "nickname": "741",
-        "timestamp": "05/01/2025 17:00",
-        "latitude": 42.28731935,
-        "longitude": -83.24169207
+        "timestamp": "05/01/2025 17:18",
+        "latitude": 42.2843158,
+        "longitude": -83.23331933
     },
     {
         "nickname": "759",
-        "timestamp": "05/01/2025 17:00",
-        "latitude": 42.33252635,
-        "longitude": -83.2799333
+        "timestamp": "05/01/2025 17:19",
+        "latitude": 42.33500195,
+        "longitude": -83.28388468
     },
     {
         "nickname": "771",
-        "timestamp": "05/01/2025 17:00",
-        "latitude": 42.33048945,
-        "longitude": -83.22723257
+        "timestamp": "05/01/2025 17:19",
+        "latitude": 42.32839273,
+        "longitude": -83.2524145
     }
 ]
