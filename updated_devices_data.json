@@ -1,9 +1,9 @@
 [
     {
         "nickname": "Unknown",
-        "timestamp": "05/01/2025 16:53",
-        "latitude": 42.29723043,
-        "longitude": -83.24234898
+        "timestamp": "05/01/2025 17:00",
+        "latitude": 42.30035537,
+        "longitude": -83.23993277
     },
     {
         "nickname": "753",
@@ -25,21 +25,21 @@
     },
     {
         "nickname": "IC",
-        "timestamp": "05/01/2025 16:54",
-        "latitude": 42.2826025,
-        "longitude": -83.27305563
+        "timestamp": "05/01/2025 17:00",
+        "latitude": 42.28163445,
+        "longitude": -83.2761745
     },
     {
         "nickname": "723",
-        "timestamp": "05/01/2025 16:53",
-        "latitude": 42.31474435,
-        "longitude": -83.29366158
+        "timestamp": "05/01/2025 17:00",
+        "latitude": 42.31291835,
+        "longitude": -83.2955574
     },
     {
         "nickname": "770",
-        "timestamp": "05/01/2025 16:53",
-        "latitude": 42.277774,
-        "longitude": -83.27022918
+        "timestamp": "05/01/2025 17:00",
+        "latitude": 42.28768043,
+        "longitude": -83.2701544
     },
     {
         "nickname": "OUT",
@@ -49,68 +49,68 @@
     },
     {
         "nickname": "747",
-        "timestamp": "05/01/2025 16:54",
-        "latitude": 42.30405713,
-        "longitude": -83.24407452
+        "timestamp": "05/01/2025 17:00",
+        "latitude": 42.30250873,
+        "longitude": -83.24189155
     },
     {
         "nickname": "776",
-        "timestamp": "05/01/2025 16:53",
-        "latitude": 42.28548098,
-        "longitude": -83.22513533
+        "timestamp": "05/01/2025 16:59",
+        "latitude": 42.28796858,
+        "longitude": -83.2269847
     },
     {
         "nickname": "717",
-        "timestamp": "05/01/2025 16:53",
-        "latitude": 42.34826293,
-        "longitude": -83.2848117
+        "timestamp": "05/01/2025 16:59",
+        "latitude": 42.34970645,
+        "longitude": -83.28614568
     },
     {
         "nickname": "735",
-        "timestamp": "05/01/2025 16:54",
-        "latitude": 42.28910907,
-        "longitude": -83.26665902
+        "timestamp": "05/01/2025 17:00",
+        "latitude": 42.28824915,
+        "longitude": -83.2631169
     },
     {
         "nickname": "729",
-        "timestamp": "05/01/2025 16:54",
-        "latitude": 42.31967557,
-        "longitude": -83.26360242
+        "timestamp": "05/01/2025 17:00",
+        "latitude": 42.3192774,
+        "longitude": -83.26351457
     },
     {
         "nickname": "765",
-        "timestamp": "05/01/2025 16:54",
-        "latitude": 42.27673002,
-        "longitude": -83.23897542
+        "timestamp": "05/01/2025 17:00",
+        "latitude": 42.2769258,
+        "longitude": -83.2395067
     },
     {
         "nickname": "764",
-        "timestamp": "05/01/2025 16:54",
-        "latitude": 42.3347829,
-        "longitude": -83.30023327
+        "timestamp": "05/01/2025 17:00",
+        "latitude": 42.33716928,
+        "longitude": -83.30123247
     },
     {
         "nickname": "752",
-        "timestamp": "05/01/2025 16:54",
-        "latitude": 42.31056025,
-        "longitude": -83.26739947
+        "timestamp": "05/01/2025 17:00",
+        "latitude": 42.311149,
+        "longitude": -83.27056872
     },
     {
         "nickname": "741",
-        "timestamp": "05/01/2025 16:53",
-        "latitude": 42.28777382,
-        "longitude": -83.2429914
+        "timestamp": "05/01/2025 17:00",
+        "latitude": 42.28731935,
+        "longitude": -83.24169207
     },
     {
         "nickname": "759",
-        "timestamp": "05/01/2025 16:53",
-        "latitude": 42.33582465,
-        "longitude": -83.28017702
+        "timestamp": "05/01/2025 17:00",
+        "latitude": 42.33252635,
+        "longitude": -83.2799333
     },
     {
         "nickname": "771",
-        "timestamp": "05/01/2025 16:53",
-        "latitude": 42.33438345,
-        "longitude": -83.22755487
+        "timestamp": "05/01/2025 17:00",
+        "latitude": 42.33048945,
+        "longitude": -83.22723257
     }
 ]
