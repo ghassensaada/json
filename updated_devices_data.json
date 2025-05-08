@@ -1,9 +1,9 @@
 [
     {
         "nickname": "Unknown",
-        "timestamp": "05/08/2025 17:30",
-        "latitude": 42.3035122,
-        "longitude": -83.23589947
+        "timestamp": "05/08/2025 17:40",
+        "latitude": 42.32199747,
+        "longitude": -83.25313637
     },
     {
         "nickname": "777",
@@ -19,21 +19,21 @@
     },
     {
         "nickname": "IC",
-        "timestamp": "05/08/2025 17:31",
-        "latitude": 42.3361417,
-        "longitude": -83.24651483
+        "timestamp": "05/08/2025 17:40",
+        "latitude": 42.33896352,
+        "longitude": -83.24603827
     },
     {
         "nickname": "723",
-        "timestamp": "05/08/2025 17:31",
-        "latitude": 42.32122567,
-        "longitude": -83.3087231
+        "timestamp": "05/08/2025 17:40",
+        "latitude": 42.3197979,
+        "longitude": -83.31028908
     },
     {
         "nickname": "770",
-        "timestamp": "05/08/2025 17:31",
-        "latitude": 42.29950068,
-        "longitude": -83.26887307
+        "timestamp": "05/08/2025 17:39",
+        "latitude": 42.30034917,
+        "longitude": -83.26387663
     },
     {
         "nickname": "OUT",
@@ -43,68 +43,68 @@
     },
     {
         "nickname": "747",
-        "timestamp": "05/08/2025 17:31",
-        "latitude": 42.29785552,
-        "longitude": -83.26342048
+        "timestamp": "05/08/2025 17:40",
+        "latitude": 42.29361113,
+        "longitude": -83.26551413
     },
     {
         "nickname": "776",
-        "timestamp": "05/08/2025 17:30",
-        "latitude": 42.27439327,
-        "longitude": -83.22642605
+        "timestamp": "05/08/2025 17:40",
+        "latitude": 42.27371327,
+        "longitude": -83.22307503
     },
     {
         "nickname": "717",
-        "timestamp": "05/08/2025 17:31",
-        "latitude": 42.34268308,
-        "longitude": -83.28559685
+        "timestamp": "05/08/2025 17:40",
+        "latitude": 42.34159282,
+        "longitude": -83.28277627
     },
     {
         "nickname": "735",
-        "timestamp": "05/08/2025 17:31",
-        "latitude": 42.28184228,
-        "longitude": -83.25763022
+        "timestamp": "05/08/2025 17:40",
+        "latitude": 42.27521065,
+        "longitude": -83.25457062
     },
     {
         "nickname": "729",
-        "timestamp": "05/08/2025 17:31",
-        "latitude": 42.31595227,
-        "longitude": -83.26454105
+        "timestamp": "05/08/2025 17:40",
+        "latitude": 42.31376582,
+        "longitude": -83.2600361
     },
     {
         "nickname": "765",
-        "timestamp": "05/08/2025 17:30",
-        "latitude": 42.27290968,
-        "longitude": -83.27949078
+        "timestamp": "05/08/2025 17:40",
+        "latitude": 42.28024322,
+        "longitude": -83.28968973
     },
     {
         "nickname": "764",
-        "timestamp": "05/08/2025 17:31",
-        "latitude": 42.33682573,
-        "longitude": -83.30274842
+        "timestamp": "05/08/2025 17:40",
+        "latitude": 42.33724932,
+        "longitude": -83.30038858
     },
     {
         "nickname": "752",
-        "timestamp": "05/08/2025 17:30",
-        "latitude": 42.31249625,
-        "longitude": -83.27613942
+        "timestamp": "05/08/2025 17:40",
+        "latitude": 42.30867777,
+        "longitude": -83.27853403
     },
     {
         "nickname": "741",
-        "timestamp": "05/08/2025 17:31",
-        "latitude": 42.32063663,
-        "longitude": -83.28803188
+        "timestamp": "05/08/2025 17:40",
+        "latitude": 42.32459488,
+        "longitude": -83.28827515
     },
     {
         "nickname": "759",
-        "timestamp": "05/08/2025 17:31",
-        "latitude": 42.27891068,
-        "longitude": -83.23255025
+        "timestamp": "05/08/2025 17:40",
+        "latitude": 42.27166413,
+        "longitude": -83.23269443
     },
     {
         "nickname": "771",
-        "timestamp": "05/08/2025 17:30",
-        "latitude": 42.33281698,
-        "longitude": -83.29886193
+        "timestamp": "05/08/2025 17:36",
+        "latitude": 42.33281428,
+        "longitude": -83.29886262
     }
 ]
