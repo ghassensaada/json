@@ -1,9 +1,9 @@
 [
     {
         "nickname": "Unknown",
-        "timestamp": "05/14/2025 21:22",
-        "latitude": 42.41464712,
-        "longitude": -83.21872342
+        "timestamp": "05/14/2025 21:28",
+        "latitude": 42.44457697,
+        "longitude": -83.20470252
     },
     {
         "nickname": "777",
@@ -43,9 +43,9 @@
     },
     {
         "nickname": "747",
-        "timestamp": "05/14/2025 21:22",
-        "latitude": 42.30970773,
-        "longitude": -83.28449715
+        "timestamp": "05/14/2025 21:28",
+        "latitude": 42.30583345,
+        "longitude": -83.28457185
     },
     {
         "nickname": "776",
@@ -61,15 +61,15 @@
     },
     {
         "nickname": "735",
-        "timestamp": "05/14/2025 21:21",
-        "latitude": 42.28949692,
-        "longitude": -83.25936618
+        "timestamp": "05/14/2025 21:28",
+        "latitude": 42.29627275,
+        "longitude": -83.2636091
     },
     {
         "nickname": "729",
-        "timestamp": "05/14/2025 21:22",
-        "latitude": 42.34748882,
-        "longitude": -83.21620522
+        "timestamp": "05/14/2025 21:28",
+        "latitude": 42.40576937,
+        "longitude": -83.21845627
     },
     {
         "nickname": "765",
@@ -79,15 +79,15 @@
     },
     {
         "nickname": "764",
-        "timestamp": "05/14/2025 21:22",
-        "latitude": 42.44475493,
-        "longitude": -83.20096207
+        "timestamp": "05/14/2025 21:26",
+        "latitude": 42.4511566,
+        "longitude": -83.19341978
     },
     {
         "nickname": "752",
-        "timestamp": "05/14/2025 21:22",
-        "latitude": 42.4512132,
-        "longitude": -83.19401657
+        "timestamp": "05/14/2025 21:23",
+        "latitude": 42.45109652,
+        "longitude": -83.19338182
     },
     {
         "nickname": "741",
@@ -103,8 +103,8 @@
     },
     {
         "nickname": "771",
-        "timestamp": "05/14/2025 21:22",
-        "latitude": 42.44422925,
-        "longitude": -83.21683742
+        "timestamp": "05/14/2025 21:28",
+        "latitude": 42.44462495,
+        "longitude": -83.20127383
     }
 ]
