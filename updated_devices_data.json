@@ -1,9 +1,9 @@
 [
     {
         "nickname": "Unknown",
-        "timestamp": "05/14/2025 15:35",
-        "latitude": 42.29170595,
-        "longitude": -83.21421767
+        "timestamp": "05/14/2025 15:54",
+        "latitude": 42.2931899,
+        "longitude": -83.21161498
     },
     {
         "nickname": "777",
@@ -19,21 +19,21 @@
     },
     {
         "nickname": "IC",
-        "timestamp": "05/14/2025 15:47",
-        "latitude": 42.2884302,
-        "longitude": -83.28073252
+        "timestamp": "05/14/2025 15:54",
+        "latitude": 42.2884272,
+        "longitude": -83.28073255
     },
     {
         "nickname": "723",
-        "timestamp": "05/14/2025 15:47",
-        "latitude": 42.31990023,
-        "longitude": -83.29149803
+        "timestamp": "05/14/2025 15:53",
+        "latitude": 42.31924957,
+        "longitude": -83.29496368
     },
     {
         "nickname": "770",
-        "timestamp": "05/14/2025 15:47",
-        "latitude": 42.29847142,
-        "longitude": -83.28224373
+        "timestamp": "05/14/2025 15:51",
+        "latitude": 42.29847058,
+        "longitude": -83.28224028
     },
     {
         "nickname": "OUT",
@@ -43,68 +43,68 @@
     },
     {
         "nickname": "747",
-        "timestamp": "05/14/2025 15:47",
-        "latitude": 42.29953288,
-        "longitude": -83.28603092
+        "timestamp": "05/14/2025 15:54",
+        "latitude": 42.3041614,
+        "longitude": -83.2902367
     },
     {
         "nickname": "776",
-        "timestamp": "05/14/2025 15:48",
-        "latitude": 42.28057083,
-        "longitude": -83.21877808
+        "timestamp": "05/14/2025 15:54",
+        "latitude": 42.28159328,
+        "longitude": -83.21791062
     },
     {
         "nickname": "717",
-        "timestamp": "05/14/2025 15:47",
-        "latitude": 42.3525767,
-        "longitude": -83.28296265
+        "timestamp": "05/14/2025 15:53",
+        "latitude": 42.34943712,
+        "longitude": -83.28213115
     },
     {
         "nickname": "735",
-        "timestamp": "05/14/2025 15:47",
-        "latitude": 42.29228407,
-        "longitude": -83.25117107
+        "timestamp": "05/14/2025 15:54",
+        "latitude": 42.29486213,
+        "longitude": -83.25726118
     },
     {
         "nickname": "729",
-        "timestamp": "05/14/2025 15:47",
-        "latitude": 42.32373238,
-        "longitude": -83.26002567
+        "timestamp": "05/14/2025 15:54",
+        "latitude": 42.32353992,
+        "longitude": -83.25886812
     },
     {
         "nickname": "765",
-        "timestamp": "05/14/2025 15:48",
-        "latitude": 42.30411775,
-        "longitude": -83.25397672
+        "timestamp": "05/14/2025 15:54",
+        "latitude": 42.30104795,
+        "longitude": -83.2425843
     },
     {
         "nickname": "764",
-        "timestamp": "05/14/2025 15:47",
-        "latitude": 42.34022318,
-        "longitude": -83.3029508
+        "timestamp": "05/14/2025 15:53",
+        "latitude": 42.33414618,
+        "longitude": -83.29910272
     },
     {
         "nickname": "752",
-        "timestamp": "05/14/2025 15:47",
-        "latitude": 42.273201,
-        "longitude": -83.25650827
+        "timestamp": "05/14/2025 15:54",
+        "latitude": 42.27318572,
+        "longitude": -83.25696543
     },
     {
         "nickname": "741",
-        "timestamp": "05/14/2025 15:48",
-        "latitude": 42.31098812,
-        "longitude": -83.26087857
+        "timestamp": "05/14/2025 15:54",
+        "latitude": 42.3128328,
+        "longitude": -83.25848853
     },
     {
         "nickname": "759",
-        "timestamp": "05/14/2025 15:47",
-        "latitude": 42.3308314,
-        "longitude": -83.28238325
+        "timestamp": "05/14/2025 15:54",
+        "latitude": 42.33264563,
+        "longitude": -83.28004395
     },
     {
         "nickname": "771",
-        "timestamp": "05/14/2025 15:47",
-        "latitude": 42.33711895,
-        "longitude": -83.27164345
+        "timestamp": "05/14/2025 15:54",
+        "latitude": 42.34170188,
+        "longitude": -83.25700317
     }
 ]
