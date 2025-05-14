@@ -1,9 +1,9 @@
 [
     {
         "nickname": "Unknown",
-        "timestamp": "05/14/2025 20:12",
-        "latitude": 42.3286661,
-        "longitude": -83.30010178
+        "timestamp": "05/14/2025 20:27",
+        "latitude": 42.3290745,
+        "longitude": -83.3018981
     },
     {
         "nickname": "777",
@@ -19,21 +19,21 @@
     },
     {
         "nickname": "IC",
-        "timestamp": "05/14/2025 20:12",
-        "latitude": 42.27449063,
-        "longitude": -83.2734649
+        "timestamp": "05/14/2025 20:27",
+        "latitude": 42.27619058,
+        "longitude": -83.27684823
     },
     {
         "nickname": "723",
-        "timestamp": "05/14/2025 20:12",
-        "latitude": 42.38867463,
-        "longitude": -83.2176751
+        "timestamp": "05/14/2025 20:24",
+        "latitude": 42.45123123,
+        "longitude": -83.19279855
     },
     {
         "nickname": "770",
-        "timestamp": "05/14/2025 20:12",
-        "latitude": 42.303584,
-        "longitude": -83.260666
+        "timestamp": "05/14/2025 20:27",
+        "latitude": 42.35126575,
+        "longitude": -83.21632783
     },
     {
         "nickname": "OUT",
@@ -43,9 +43,9 @@
     },
     {
         "nickname": "747",
-        "timestamp": "05/14/2025 20:13",
-        "latitude": 42.30253165,
-        "longitude": -83.24465647
+        "timestamp": "05/14/2025 20:27",
+        "latitude": 42.29996555,
+        "longitude": -83.28256468
     },
     {
         "nickname": "776",
@@ -61,33 +61,33 @@
     },
     {
         "nickname": "735",
-        "timestamp": "05/14/2025 20:12",
-        "latitude": 42.28408075,
-        "longitude": -83.25487097
+        "timestamp": "05/14/2025 20:27",
+        "latitude": 42.28238425,
+        "longitude": -83.2516131
     },
     {
         "nickname": "729",
-        "timestamp": "05/14/2025 20:12",
-        "latitude": 42.32416452,
-        "longitude": -83.26861362
+        "timestamp": "05/14/2025 20:27",
+        "latitude": 42.32663283,
+        "longitude": -83.26392548
     },
     {
         "nickname": "765",
-        "timestamp": "05/14/2025 20:13",
-        "latitude": 42.37847365,
-        "longitude": -83.21685708
+        "timestamp": "05/14/2025 20:27",
+        "latitude": 42.45047285,
+        "longitude": -83.19170945
     },
     {
         "nickname": "764",
-        "timestamp": "05/14/2025 20:12",
-        "latitude": 42.3549359,
-        "longitude": -83.30637317
+        "timestamp": "05/14/2025 20:27",
+        "latitude": 42.35581795,
+        "longitude": -83.30259147
     },
     {
         "nickname": "752",
-        "timestamp": "05/14/2025 20:13",
-        "latitude": 42.2691047,
-        "longitude": -83.27092272
+        "timestamp": "05/14/2025 20:27",
+        "latitude": 42.26908465,
+        "longitude": -83.27442123
     },
     {
         "nickname": "741",
@@ -97,14 +97,14 @@
     },
     {
         "nickname": "759",
-        "timestamp": "05/14/2025 20:13",
-        "latitude": 42.31321287,
-        "longitude": -83.28156285
+        "timestamp": "05/14/2025 20:27",
+        "latitude": 42.3163886,
+        "longitude": -83.28537042
     },
     {
         "nickname": "771",
-        "timestamp": "05/14/2025 20:12",
-        "latitude": 42.33155467,
-        "longitude": -83.27141513
+        "timestamp": "05/14/2025 20:27",
+        "latitude": 42.33635342,
+        "longitude": -83.27059738
     }
 ]
