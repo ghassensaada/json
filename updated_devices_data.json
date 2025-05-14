@@ -1,9 +1,9 @@
 [
     {
         "nickname": "Unknown",
-        "timestamp": "05/14/2025 20:49",
-        "latitude": 42.32577862,
-        "longitude": -83.2944857
+        "timestamp": "05/14/2025 20:55",
+        "latitude": 42.32612678,
+        "longitude": -83.29442373
     },
     {
         "nickname": "777",
@@ -19,9 +19,9 @@
     },
     {
         "nickname": "IC",
-        "timestamp": "05/14/2025 20:49",
-        "latitude": 42.2656625,
-        "longitude": -83.23550527
+        "timestamp": "05/14/2025 20:55",
+        "latitude": 42.32289123,
+        "longitude": -83.21530323
     },
     {
         "nickname": "723",
@@ -43,9 +43,9 @@
     },
     {
         "nickname": "747",
-        "timestamp": "05/14/2025 20:48",
-        "latitude": 42.30902123,
-        "longitude": -83.28625375
+        "timestamp": "05/14/2025 20:55",
+        "latitude": 42.31203212,
+        "longitude": -83.28876137
     },
     {
         "nickname": "776",
@@ -61,15 +61,15 @@
     },
     {
         "nickname": "735",
-        "timestamp": "05/14/2025 20:49",
-        "latitude": 42.2824519,
-        "longitude": -83.25160865
+        "timestamp": "05/14/2025 20:55",
+        "latitude": 42.28206972,
+        "longitude": -83.25115595
     },
     {
         "nickname": "729",
-        "timestamp": "05/14/2025 20:48",
-        "latitude": 42.31760103,
-        "longitude": -83.2634601
+        "timestamp": "05/14/2025 20:55",
+        "latitude": 42.32233808,
+        "longitude": -83.27137093
     },
     {
         "nickname": "765",
@@ -79,15 +79,15 @@
     },
     {
         "nickname": "764",
-        "timestamp": "05/14/2025 20:48",
-        "latitude": 42.35278998,
-        "longitude": -83.29580625
+        "timestamp": "05/14/2025 20:55",
+        "latitude": 42.3543972,
+        "longitude": -83.2940137
     },
     {
         "nickname": "752",
-        "timestamp": "05/14/2025 20:48",
-        "latitude": 42.285263,
-        "longitude": -83.270665
+        "timestamp": "05/14/2025 20:54",
+        "latitude": 42.32693672,
+        "longitude": -83.2718541
     },
     {
         "nickname": "741",
@@ -97,14 +97,14 @@
     },
     {
         "nickname": "759",
-        "timestamp": "05/14/2025 20:48",
-        "latitude": 42.31747923,
-        "longitude": -83.28990783
+        "timestamp": "05/14/2025 20:54",
+        "latitude": 42.32689703,
+        "longitude": -83.26403383
     },
     {
         "nickname": "771",
-        "timestamp": "05/14/2025 20:49",
-        "latitude": 42.33327605,
-        "longitude": -83.29245087
+        "timestamp": "05/14/2025 20:55",
+        "latitude": 42.32643807,
+        "longitude": -83.2935912
     }
 ]
